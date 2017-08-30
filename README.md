@@ -1,1 +1,1 @@
-# GolangTrainig
+# GolangTraining
